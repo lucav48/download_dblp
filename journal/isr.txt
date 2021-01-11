@@ -1,0 +1,1075 @@
+Bargaining over Data: When Does Making the Buyer More Informed Help?
+Words Matter! Toward a Prosocial Call-to-Action for Online Referral: Evidence from Two Field Experiments.
+An Empirical Analysis of Seller Advertising Strategies in an Online Marketplace.
+Electronic Health Records and the Logics of Care: Complementarity and Conflict in the U.S. Healthcare System.
+Consumption and Performance: Understanding Longitudinal Dynamics of Recommender Systems via an Agent-Based Simulation Framework.
+Trade-Offs in Online Advertising: Advertising Effectiveness and Annoyance Dynamics Across the Purchase Funnel.
+Sustaining a Good Impression: Mechanisms for Selling Partitioned Impressions at Ad Exchanges.
+Is the Grass Greener? On the Strategic Implications of Moving Along the Value Chain for IT Service Providers.
+When the Bank Comes to You: Branch Network and Customer Omnichannel Banking Behavior.
+Social Networks, Funding, and Regional Advantages in Technology Entrepreneurship: An Empirical Analysis.
+Platform Pricing and Investment to Drive Third-Party Value Creation in Two-Sided Networks.
+Bloatware and Jailbreaking: Strategic Impacts of Consumer-Initiated Modification of Technology Products.
+Financial Returns to Firms' Communication Actions on Firm-Initiated Social Media: Evidence from Facebook Business Pages.
+Does Identity Disclosure Help or Hurt User Content Generation? Social Presence, Inhibition, and Displacement Effects.
+Flexible and Committed Advertising Contracts in Electronic Retailing.
+The Voice of the Customer: Managing Customer Care in Twitter.
+Turning Liabilities of Global Operations into Assets: IT-Enabled Social Integration Capacity and Exploratory Innovation.
+Onward and Upward? An Empirical Investigation of Gender and Promotions in Information Technology Services.
+An Economic Analysis of Product Recommendation in the Presence of Quality and Taste-Match Heterogeneity.
+Your Hometown Matters: Popularity-Difference Bias in Online Reputation Platforms.
+Unemployment and Worker Participation in the Gig Economy: Evidence from an Online Labor Market.
+Cross-Platform Spillover Effects in Consumption of Viral Content: A Quasi-Experimental Analysis Using Synthetic Controls.
+Hiding Sensitive Information when Sharing Distributed Transactional Data.
+Content Growth and Attention Contagion in Information Networks: Addressing Information Poverty on Wikipedia.
+A Theory of Multilevel Information Privacy Management for the Digital Era.
+Understanding Physicians' Online-Offline Behavior Dynamics: An Empirical Study.
+Online Display Advertising Markets: A Literature Review and Future Directions.
+The Importance of Interactions Between Content Characteristics and Creator Characteristics for Studying Virality in Social Media.
+When to Play Your Advertisement? Optimal Insertion Policy of Behavioral Advertisement.
+From Lurkers to Workers: Predicting Voluntary Contribution and Community Welfare.
+Ad-Blockers: A Blessing or a Curse?
+Mitigating Traffic Congestion: The Role of Intelligent Transportation Systems.
+Eye-Tracking-Based Classification of Information Search Behavior Using Machine Learning: Evidence from Experiments in Physical Shops and Virtual Reality Shopping Environments.
+Optimizing Two-Sided Promotion for Transportation Network Companies: A Structural Model with Conditional Bayesian Learning.
+When Online Lending Meets Real Estate: Examining Investment Decisions in Lending-Based Real Estate Crowdfunding.
+Finding Useful Solutions in Online Knowledge Communities: A Theory-Driven Design and Multilevel Analysis.
+A Switch in Time Saves the Dime: A Model to Reduce Rental Cost in Cloud Computing.
+Video Killed the Radio Star? Online Music Videos and Recorded Music Sales.
+Unemployment and Digital Public Goods Contribution.
+Examining the Heterogeneous Impact of Ride-Hailing Services on Public Transit Use.
+When Loyalty Goes Mobile: Effects of Mobile Loyalty Apps on Purchase, Redemption, and Competition.
+Cloud Services vs. On-Premises Software: Competition Under Security Risk and Product Customization.
+Matching Mobile Applications for Cross-Promotion.
+Different but Equal? A Field Experiment on the Impact of Recommendation Systems on Mobile and Personal Computer Channels in Retail.
+More than Words in Medical Question-and-Answer Sites: A Content-Context Congruence Perspective.
+Developing and Testing a Theoretical Path Model of Web Page Impression Formation and Its Consequence.
+A Tangled Web: Should Online Review Portals Display Fraudulent Reviews?
+Does Telemedicine Reduce Emergency Room Congestion? Evidence from New York State.
+Appealing to Sense and Sensibility: System 1 and System 2 Interventions for Fake News on Social Media.
+Data-Driven Promotion Planning for Paid Mobile Applications.
+Optimal Auction Design for Wi-Fi Procurement.
+A Structural Analysis of the Role of Superstars in Crowdsourcing Contests.
+Who Wants Consumers to Be Informed? Facilitating Information Disclosure in a Distribution Channel.
+Research Commentary - Data-Driven Computationally Intensive Theory Development.
+Battle of the Internet Channels: How Do Mobile and Fixed-Line Quality Drive Internet Use?
+Measuring and Managing the Externality of Managerial Responses to Online Customer Reviews.
+When Algorithmic Predictions Use Human-Generated Data: A Bias-Aware Classification Algorithm for Breast Cancer Diagnosis.
+A Coevolution Model of Network Structure and User Behavior: The Case of Content Generation in Online Social Networks.
+The Impact of Twitter Adoption on Lawmakers' Voting Orientations.
+Seizing the Commuting Moment: Contextual Targeting Based on Mobile Transportation Apps.
+The Dynamics of Online Consumers' Response to Price Promotion.
+Using User- and Marketer-Generated Content for Box Office Revenue Prediction: Differences Between Microblogging and Third-Party Platforms.
+Performance Consequences of Information Technology Investments: Implications of Emphasizing New or Current Information Technologies.
+The Digital Sin City: An Empirical Study of Craigslist's Impact on Prostitution Trends.
+How Do Recommender Systems Affect Sales Diversity? A Cross-Category Investigation via Randomized Field Experiment.
+An Empirical Study of Free Product Sampling and Rating Bias.
+Crowdfunding and the Democratization of Access to Capital - An Illusion? Evidence from Housing Prices.
+Relationships Between Information Technology and Other Investments: A Contingent Interaction Model.
+Do Electronic Health Records Affect Quality of Care? Evidence from the HITECH Act.
+Why Do Stores Drive Online Sales? Evidence of Underlying Mechanisms from a Multichannel Retailer.
+Prescribing Response Strategies to Manage Customer Opinions: A Stochastic Differential Equation Approach.
+Relative Privacy Valuations Under Varying Disclosure Characteristics.
+Jack of All, Master of Some: Information Network and Innovation in Crowdsourcing Communities.
+Bilateral Liability-Based Contracts in Information Security Outsourcing.
+Selling Virtual Currency in Digital Games: Implications for Gameplay and Social Welfare.
+Talking Up a Storm: How Backers Use Public Discourse to Exert Control in Crowdfunded Systems Development Projects.
+Audit Policies Under the Sentinel Effect: Deterrence-Driven Algorithms.
+Adopting Seekers' Solution Exemplars in Crowdsourcing Ideation Contests: Antecedents and Consequences.
+Effects of Sponsorship Disclosure on Perceived Integrity of Biased Recommendation Agents: Psychological Contract Violation and Knowledge-Based Trust Perspectives.
+Motivating Effective Mobile App Adoptions: Evidence from a Large-Scale Randomized Field Experiment.
+Storm Clouds on the Horizon? New Entry Threats and R&D Investments in the U.S. IT Industry.
+How Does the Implementation of Enterprise Information Systems Affect a Professional's Mobility? An Empirical Study.
+Efficient Computational Strategies for Dynamic Inventory Liquidation.
+Forward-Looking Behavior in Mobile Data Consumption and Targeted Promotion Design: A Dynamic Structural Model.
+Explaining Digital Piracy: A Meta-Analysis.
+The Coevolution of Objects and Boundaries over Time: Materiality, Affordances, and Boundary Salience.
+Toward a Theory of Information Systems Security Behaviors of Organizational Employees: A Dialectical Process Perspective.
+Leveraging User-Generated Content for Product Promotion: The Effects of Firm-Highlighted Reviews.
+Knowledge Transfers in Alliances: Exploring the Facilitating Role of Information Technology.
+Balancing Openness and Prioritization in a Two-Tier Internet.
+Does Superposition Influence the Success of FLOSS Projects? An Examination of Open-Source Software Development by Organizations and Individuals.
+Personalized Mobile Targeting with User Engagement Stages: Combining a Structural Hidden Markov Model and Field Experiment.
+Word-of-Mouth System Implementation and Customer Conversion: A Randomized Field Experiment.
+Measuring the Value of Recommendation Links on Product Demand.
+Understanding User-Generated Content and Customer Engagement on Facebook Business Pages.
+Does It Pay to Shroud In-App Purchase Prices?
+When a Doctor Knows, It Shows: An Empirical Analysis of Doctors' Responses in a Q&A Forum of an Online Healthcare Portal.
+Beauty Is in the Eye of the Beholder: Toward a Contextual Understanding of Compensation of Information Technology Professionals Within and Across Geographies.
+Triadic Closure, Homophily, and Reciprocation: An Empirical Investigation of Social Ties Between Content Providers.
+"Level Up": Leveraging Skill and Engagement to Maximize Player Game-Play in Online Video Games.
+Using Technology to Persuade: Visual Representation Technologies and Consensus Seeking in Virtual Teams.
+Large Online Product Catalog Space Indicates High Store Price: Understanding Customers' Overgeneralization and Illogical Inference.
+Crowd-Driven Competitive Intelligence: Understanding the Relationship Between Local Market Competition and Online Rating Distributions.
+Why Would I Use Location-Protective Settings on My Smartphone? Motivating Protective Behaviors and the Existence of the Privacy Knowledge-Belief Gap.
+Don't Mention It? Analyzing User-Generated Content Signals for Early Adverse Event Warnings.
+From Bricks to an Edifice: Cultivating Strong Inference in Information Systems Research.
+Innovation and Policy Support for Two-Sided Market Platforms: Can Government Policy Makers and Executives Optimize Both Societal Value and Profits?
+Seeing the Trees or the Forest? The Effect of IT Project Managers' Mental Construal on IT Project Risk Management Activities.
+Software Patents and Firm Value: A Real Options Perspective on the Role of Innovation Orientation and Environmental Uncertainty.
+Online Product Reviews-Triggered Dynamic Pricing: Theory and Evidence.
+The Strategic Value of Information Technology in Setting Productive Capacity.
+How Pair Programming Influences Team Performance: The Role of Backup Behavior, Shared Mental Models, and Task Novelty.
+When Seeing Helps Believing: The Interactive Effects of Previews and Reviews on E-Book Purchases.
+How Do EHRs and a Meaningful Use Initiative Affect Breaches of Patient Information?
+When and How to Leverage E-commerce Cart Targeting: The Relative and Moderated Effects of Scarcity and Price Incentives with a Two-Stage Field Experiment and Causal Forest Optimization.
+The Adaptive Roles of Positive and Negative Emotions in Organizational Insiders' Security-Based Precaution Taking.
+Impact of Live Chat on Purchase in Electronic Markets: The Moderating Role of Information Cues.
+Unraveling the "Social" in Social Norms: The Conditioning Effect of User Connectivity.
+The Spillover of Spotlight: Platform Recommendation in the Mobile App Market.
+A Dynamic Model of Embeddedness in Digital Infrastructures.
+How Mega Is the Mega? Exploring the Spillover Effects of WeChat Using Graphical Model.
+A for Effort? Using the Crowd to Identify Moral Hazard in New York City Restaurant Hygiene Inspections.
+Moving IS Project Control Research into the Digital Era: The "Why" of Control and the Concept of Control Purpose.
+"Monday Effect" on Performance Variations in Supply Chain Fulfillment: How Information Technology-Enabled Procurement May Help.
+Optimal Management of Virtual Infrastructures Under Flexible Cloud Service Agreements.
+Editorial Responsibilities and a Note on Research Notes.
+Mind the Gap: Accounting for Measurement Error and Misclassification in Variables Generated via Data Mining.
+Quantifying the Impact of Social Influence on the Information Technology Implementation Process by Physicians: A Hierarchical Bayesian Learning Approach.
+Managing Distributed Product Development Projects: Integration Strategies for Time-Zone and Language Barriers.
+When Ignorance Can Be Bliss: Organizational Structure and Coordination in Electronic Retailing.
+Effects of Online Recommendations on Consumers' Willingness to Pay.
+Work-Life Conflict of Globally Distributed Software Development Personnel: An Empirical Investigation Using Border Theory.
+Information Systems Projects and Individual Developer Outcomes: Role of Project Managers and Process Control.
+Boundary Organization Practices for Collaboration in Enterprise Integration.
+Contextual Priming and the Design of 3D Virtual Environments to Improve Group Ideation.
+Generating Value Through Open Source: Software Service Market Regulation and Licensing Policy.
+Multigeneration Product Diffusion in the Presence of Strategic Consumers.
+Reexamining the Market Value of Information Technology Events.
+Call for Papers - Special Issue of Information Systems Research - Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, and Society.
+Research Commentary - From Net Neutrality to Data Neutrality: A Techno-Economic Framework and Research Agenda.
+Copycats vs. Original Mobile Apps: A Machine Learning Copycat-Detection Method and Empirical Analysis.
+On Direct vs. Indirect Peer Influence in Large Social Networks.
+Real Options Models for Proactive Uncertainty-Reducing Mitigations and Applications in Cybersecurity Investment Decision Making.
+Reducing Medicare Spending Through Electronic Health Information Exchange: The Role of Incentives and Exchange Maturity.
+Social Media Strategies in Product-Harm Crises.
+Introduction - Platforms and Infrastructures in the Digital Age.
+Salience Bias in Crowdsourcing Contests.
+Managing Digital Platforms in User Organizations: The Interactions Between Digital Options and Digital Debt.
+Does Platform Owner's Entry Crowd Out Innovation? Evidence from Google Photos.
+Platform Architecture and Quality Trade-offs of Multihoming Complements.
+Exploiting and Defending Open Digital Platforms with Boundary Resources: Android's Five Platform Forks.
+Strategic Intellectual Property Sharing: Competition on an Open Technology Platform Under Network Effects.
+Differences are Different: Examining the Effects of Communication Media on the Impacts of Racial and Gender Diversity in Decision-Making Teams.
+An Economic Analysis of Peer Disclosure in Online Social Communities.
+When Discounts Hurt Sales: The Case of Daily-Deal Markets.
+The Impact of Sharing Mechanism Design on Content Sharing in Online Social Networks.
+The Impact of User Personality Traits on Word of Mouth: Text-Mining Social Media Platforms.
+Socially Nudged: A Quasi-Experimental Study of Friends' Social Influence in Online Product Ratings.
+Catch Me If You Can: Effectiveness and Consequences of Online Copyright Enforcement.
+Reward-Based Crowdfunding Campaigns: Informational Value and Access to Venture Capital.
+The Role of User Privacy Concerns in Shaping Competition Among Platforms.
+The Impact of Online Product Reviews on Product Returns.
+Impact of Average Rating on Social Media Endorsement: The Moderating Role of Rating Dispersion and Discount Threshold.
+Rules, Practices, and Information Technology: A Trifecta of Organizational Regulation.
+Editorial - Traits of Successful Research Contributions for Publication in ISR: Some Thoughts for Authors and Reviewers.
+An Economic Analysis of Customer Co-design.
+Examining Gifting Through Social Network Services: A Social Exchange Theory Perspective.
+Platform Synergy: Architectural Origins and Competitive Consequences.
+Exit, Voice, and Response on Digital Platforms: An Empirical Investigation of Online Management Response Strategies.
+Extrinsic versus Intrinsic Rewards for Contributing Reviews in an Online Platform.
+Surviving in Global Online Labor Markets for IT Services: A Geo-Economic Analysis.
+Estimating Contextual Motivating Factors in Virtual Interorganizational Communities of Practice: Peer Effects and Organizational Influences.
+Electronic Markets and Geographic Competition Among Small, Local Firms.
+Service Agreement Trifecta: Backup Resources, Price and Penalty in the Availability-Aware Cloud.
+Versioning and Information Dissemination: A New Perspective.
+Decomposing the Variance of Consumer Ratings and the Impact on Price and Demand.
+Recommender System Rethink: Implications for an Electronic Marketplace with Competing Manufacturers.
+A Matter of Equality: Linear Pricing in Combinatorial Exchanges.
+Learning from Your Friends' Check-Ins: An Empirical Study of Location-Based Social Networks.
+Call for Papers - Special Issue of Information Systems Research - Market Design and Analytics.
+Editorial Thoughts: What and How ISR Publishes.
+Research Commentary - Diversity of the Information Systems Research Field: A Journal Governance Perspective.
+Providing a Window of Opportunity for Converting eStore Visitors.
+Politics and Information Technology Investments in the U.S. Federal Government in 2003-2016.
+Technology Mergers and Acquisitions in the Presence of an Installed Base: A Strategic Analysis.
+A Theory of Responsive Design: A Field Study of Corporate Engagement with Open Source Communities.
+Extending the Concept of Control Beliefs: Integrating the Role of Advice Networks.
+Electronic Commerce, Spatial Arbitrage, and Market Efficiency.
+Popularity or Proximity: Characterizing the Nature of Social Influence in an Online Music Community.
+Cost-Effective Quality Assurance in Crowd Labeling.
+Coalition-Based Pricing in Ascending Combinatorial Auctions.
+Managerial Incentives and IT Strategic Posture.
+A Systematic Framework for Multilevel Theorizing in Information Systems Research.
+Logic Pluralism in Mobile Platform Ecosystems: A Study of Indie App Developers on the iOS App Store.
+Online Cash-back Shopping: Implications for Consumers and e-Businesses.
+Cosearch Attention and Stock Return Predictability in Supply Chains.
+Information Feedback, Targeting, and Coordination: An Experimental Study.
+The Impact of Institutional Distance on the Joint Performance of Collaborating Firms: The Role of Adaptive Interorganizational Systems.
+Anonymizing and Sharing Medical Text Records.
+How High Should We Go? Determining Reservation Values to Negotiate Successfully for Composite Software Services.
+Coping Responses in Phishing Detection: An Investigation of Antecedents and Consequences.
+Price of Identical Product with Gray Market Sales: An Analytical Model and Empirical Analysis.
+Designing for Diagnosticity and Serendipity: An Investigation of Social Product-Search Mechanisms.
+Information Technology, Revenues, and Profits: Exploring the Role of Foreign and Domestic Operations.
+Thinking About Measures and Measurement in Positivist Research: A Proposal for Refocusing on Fundamentals.
+How Can We Develop Contextualized Theories of Effective Use? A Demonstration in the Context of Community-Care Electronic Health Records.
+Targeted Couponing in Online Auctions.
+Not Just a Fad: Optimal Sequencing in Mobile In-App Advertising.
+Understanding Voluntary Knowledge Provision and Content Contribution Through a Social-Media-Based Prediction Market: A Field Experiment.
+On Buyer Selection of Service Providers in Online Outsourcing Platforms for IT Services.
+Governance Practices in Platform Ecosystems: Navigating Tensions Between Cocreated Value and Governance Costs.
+Selling or Leasing? Pricing Information Goods with Depreciation of Consumer Valuation.
+Continued Voluntary Participation Intention in Firm-Participating Open Source Software Projects.
+Disconfirmation Effect on Online Rating Behavior: A Structural Model.
+Is Tom Cruise Threatened? An Empirical Study of the Impact of Product Variety on Demand Concentration.
+Does Information Technology Improve Open Innovation Performance? An Examination of Manufacturers in Spain.
+Editorial - The Year in Review and Path Forward.
+Senior Editor Perspectives.
+Senior Editor Perspectives.
+Direct and Indirect Information System Use: A Multimethod Exploration of Social Power Antecedents in Healthcare.
+Bidding for Multiple Keywords in Sponsored Search Advertising: Keyword Categories and Match Types.
+When Online Reviews Meet Sales Volume Information: Is More or Accurate Information Always Better?
+Temporal Motivations of Volunteers to Participate in Cultural Crowdsourcing Work.
+Understanding Consumers' Attitudes Toward Controversial Information Technologies: A Contextualization Approach.
+Technical Systems Development Risk Factors: The Role of Empowering Leadership in Lowering Developers' Stress.
+Learning Effects of Domain, Technology, and Customer Knowledge in Information Systems Development: An Empirical Study.
+Mitigating Diminishing Returns to R&D: The Role of Information Technology in Innovation.
+Software Diversity for Improved Network Security: Optimal Distribution of Software-Based Shared Vulnerabilities.
+Seeking Value Through Deviation? Economic Impacts of IT Overinvestment and Underinvestment.
+Unraveling the Alignment Paradox: How Does Business - IT Alignment Shape Organizational Agility?
+Invited Commentary - Reflections on ICT-enabled Bright Society Research.
+On the Longitudinal Effects of IT Use on Firm-Level Employment.
+Rate or Trade? Identifying Winning Ideas in Open Idea Sourcing.
+Comparing Open and Sealed Bid Auctions: Evidence from Online Labor Markets.
+Mandatory Standards and Organizational Information Security.
+Managing Citizens' Uncertainty in E-Government Services: The Mediating and Moderating Roles of Transparency and Trust.
+The Double-Edged Sword of Backward Compatibility: The Adoption of Multigenerational Platforms in the Presence of Intergenerational Services.
+Research Note - When Do Consumers Value Positive vs. Negative Reviews? An Empirical Investigation of Confirmation Bias in Online Word of Mouth.
+Research Note - Cloud Computing Spot Pricing Dynamics: Latency and Limits to Arbitrage.
+Research Note - Information Technology, Customer Satisfaction, and Profit: Theory and Evidence.
+Research Note - In CARSs We Trust: How Context-Aware Recommendations Affect Customers' Trust and Other Business Performance Measures of Recommender Systems.
+Research Note - Using Expectation Disconfirmation Theory and Polynomial Modeling to Understand Trust in Technology.
+Examining the Continuance of Secure Behavior: A Longitudinal Field Study of Mobile Device Authentication.
+Sustainability of Healthcare Information Exchanges: A Game-Theoretic Approach.
+Does Product Market Competition Drive CVC Investment? Evidence from the U.S. IT Industry.
+Product Line Extension in Consumer Software Markets in the Presence of Free Alternatives.
+Framing Innovation Opportunities While Staying Committed to an Organizational Epistemic Stance.
+Facilitating the Transformational: An Exploration of Control in Cyberinfrastructure Projects and the Discovery of Field Control.
+Characteristics and Economic Consequences of Jump Bids in Combinatorial Auctions.
+On the Ontological Quality and Logical Quality of Conceptual-Modeling Grammars: The Need for a Dual Perspective.
+Research Note - Leader Influence on Sustained Participation in Online Collaborative Work Communities: A Simulation-Based Approach.
+Research Note - Are Online Labor Markets Spot Markets for Tasks? A Field Experiment on the Behavioral Response to Wage Cuts.
+Research Note - Content and Collaboration: An Affiliation Network Approach to Information Quality in Online Peer Production Communities.
+Research Note - An Internet-Enabled Move to the Market in Logistics.
+Research Note - Gamification of Technology-Mediated Training: Not All Competitions Are the Same.
+Editorial - On the Intellectual Structure and Evolution of ISR.
+Secret Admirers: An Empirical Examination of Information Hiding and Contribution Dynamics in Online Crowdfunding.
+Do Incentive Hierarchies Induce User Effort? Evidence from an Online Knowledge Exchange.
+Managing Co-Creation in Information Technology Projects: A Differential Games Approach.
+The Impact of Competing Ads on Click Performance in Sponsored Search.
+Implementation of an Information and Communication Technology in a Developing Country: A Multimethod Longitudinal Study in a Bank in India.
+Should Online Content Providers Be Allowed To Subsidize Content? - An Economic Analysis.
+Pricing Data Services: Pricing by Minutes, by Gigs, or by Megabytes per Second?
+Open Content, Linus' Law, and Neutral Point of View.
+Research Note - IT Outsourcing and the Impact of Advisors on Clients and Vendors.
+Research Note - Designing Promotion Ladders to Mitigate Turnover of IT Professionals.
+Editorial Notes.
+Special Section Introduction - Online Community as Space for Knowledge Flows.
+Effect of Knowledge-Sharing Trajectories on Innovative Outcomes in Temporary Online Crowds.
+Creating Value in Online Communities: The Sociomaterial Configuring of Strategy, Platform, and Stakeholder Engagement.
+Intellectual Property Norms in Online Communities: How User-Organized Intellectual Property Regulation Supports Innovation.
+Coordinating Interdependencies in Online Communities: A Study of an Open Source Software Project.
+Toward a Theory of Remixing in Online Innovation Communities.
+Turbulent Stability of Emergent Roles: The Dualistic Nature of Self-Organizing Knowledge Coproduction.
+Folding and Unfolding: Balancing Openness and Transparency in Open Source Communities.
+Special Section Introduction - Ubiquitous IT and Digital Vulnerabilities.
+Assessing the Impact of Granular Privacy Controls on Content Sharing and Disclosure on Facebook.
+More Harm Than Good? How Messages That Interrupt Can Make Us Vulnerable.
+When Being Hot Is Not Cool: Monitoring Hot Lists for Information Security.
+Excessive Dependence on Mobile Social Apps: A Rational Addiction Perspective.
+The Impact of Fake Reviews on Online Visibility: A Vulnerability Assessment of the Hotel Industry.
+Why Do Adults Engage in Cyberbullying on Social Media? An Integration of Online Disinhibition and Deindividuation Effects with the Social Structure and Social Learning Model.
+Health Information Exchange as a Multisided Platform: Adoption, Usage, and Practice Involvement in Service Co-Production.
+Predictive Analytics for Readmission of Patients with Congestive Heart Failure.
+Information Infrastructure Development and Governance as Collective Action.
+Paradoxes and the Nature of Ambidexterity in IT Transformation Programs.
+Organizational Control, Incentive Contracts, and Knowledge Transfer in Offshore Business Process Outsourcing.
+Market Positioning by IT Service Vendors Through Imitation.
+Early to Adopt and Early to Discontinue: The Impact of Self-Perceived and Actual IT Knowledge on Technology Use Behaviors of End Users.
+Turnover or Turnaway? Competing Risks Analysis of Male and Female IT Professionals' Job Mobility and Relative Pay Gap.
+The Emergence of Online Community Leadership.
+Web Footprints of Firms: Using Online Isomorphism for Competitor Identification.
+Research Note - Role of Social Media in Social Change: An Analysis of Collective Sense Making During the 2011 Egypt Revolution.
+Research Note - Perceived Firm Attributes and Intrinsic Motivation in Sponsored Open Source Software Projects.
+Finding Similar Mobile Consumers with a Privacy-Friendly Geosocial Design.
+Evolutionary Competition in Platform Ecosystems.
+The Role of Extra-Role Behaviors and Social Controls in Information Security Policy Effectiveness.
+Cable News Wars on the Internet: Competition and User-Generated Content.
+Net Neutrality, Exclusivity Contracts, and Internet Fragmentation.
+Learning User Real-Time Intent for Optimal Dynamic Web Page Transformation.
+Analyzing Software as a Service with Per-Transaction Charges.
+Social Capital and Contract Duration in Buyer-Supplier Networks for Information Technology Outsourcing.
+How Does IT Ambidexterity Impact Organizational Agility?
+The Road to Early Success: Impact of System Use in the Swift Response Phase.
+Research Note - Deliberation Without Attention: The Latent Benefits of Distracting Website Features for Online Purchase Decisions.
+Research Note - Investigating Firm Strategies on Offering Consumer-Customizable Products.
+Editorial - Evolvable Systems: Through the Looking Glass of IS.
+Research Commentary - Information Technology Substitution Revisited.
+Network Dynamics: How Can We Find Patients Like Us?
+IT-Enabled Broadcasting in Social Media: An Empirical Study of Artists' Activities and Music Sales.
+Recommendations Using Information from Multiple Association Rules: A Probabilistic Approach.
+Contemporaneous and Delayed Sales Impact of Location-Based Mobile Promotions.
+Information Disclosure and the Diffusion of Information Security Attacks.
+Research Note - Why Following Friends Can Hurt You: An Exploratory Investigation of the Effects of Envy on Social Networking Sites among College-Age Users.
+Research Note - Migration of Service to the Internet: Evidence from a Federal Natural Experiment.
+Research Note - An Exploration of Risk Characteristics of Information Security Threats and Related Public Information Search Behavior.
+Editorial Notes.
+Research Commentary - Informing Privacy Research Through Information Systems, Psychology, and Behavioral Economics: Thinking Outside the "APCO" Box.
+Discriminating IT Governance.
+Embarrassing Exposures in Online Social Networks: An Integrated Perspective of Privacy Invasion and Relationship Bonding.
+Do Organic Results Help or Hurt Sponsored Search Performance?
+Design of Consumer Review Systems and Product Pricing.
+Versioning in the Software Industry: Heterogeneous Disutility from Underprovisioning of Functionality.
+Can Payment-per-Click Induce Improvements in Click Fraud Identification Technologies?
+What Motivates Contributors vs. Lurkers? An Investigation of Online Feedback Forums.
+Designing Warning Messages for Detecting Biased Online Product Recommendations: An Empirical Investigation.
+Research Note - Tigerblood: Newspapers, Blogs, and the Founding of Information Technology Firms.
+Research Note - Parenting New Acquisitions: Acquirers' Digital Resource Redeployment and Targets' Performance Improvement in the U.S. Hospital Industry.
+Research Note - Patching the Cloud: The Impact of SaaS on Patching Strategy and the Timing of Software Release.
+Research Note - Can't Buy Me Love...Or Can I? Social Capital Attainment Through Conspicuous Consumption in Virtual Environments.
+Research Commentary - Information Technology-Enabled Business Models: A Conceptual Framework and a Coevolution Perspective for Future Research.
+Evaluation of Competing Candidate Solutions in Electronic Networks of Practice.
+How to Attract and Retain Readers in Enterprise Blogging?
+Measuring Information Technology Spillovers.
+IT-Enabled Coordination for Ambidextrous Interorganizational Relationships.
+Online Product Reviews: Implications for Retailers and Competing Manufacturers.
+A Framework and Guidelines for Context-Specific Theorizing in Information Systems Research.
+Joint Product Improvement by Client and Customer Support Center: The Role of Gain-Share Contracts in Coordination.
+Platform Performance Investment in the Presence of Network Externalities.
+Economics of Free Under Perpetual Licensing: Implications for the Software Industry.
+Research Commentary - The Disciplines of Information: Lessons from the History of the Discipline of Medicine.
+"Popularity Effect" in User-Generated Content: Evidence from Online Product Reviews.
+A Machine Learning Approach to Improving Dynamic Decision Making.
+Prediction in Economic Networks.
+Selling vs. Profiling: Optimizing the Offer Set in Web-Based Personalization.
+Using Personal Communication Technologies for Commercial Communications: A Cross-Country Investigation of Email and SMS.
+Product Fit Uncertainty in Online Markets: Nature, Effects, and Antecedents.
+Consumer Informedness and Firm Information Strategy.
+Project Managers' Practical Intelligence and Project Performance in Software Offshore Outsourcing: A Field Study.
+Research Note - Influence Techniques in Phishing Attacks: An Examination of Vulnerability and Resistance.
+Research Note - How Semantics and Pragmatics Interact in Understanding Conceptual Models.
+Research Note - The Influences of Online Service Technologies and Task Complexity on Efficiency and Personalization.
+Editorial - Big Data, Data Science, and Analytics: The Opportunity and Challenge for IS Research.
+Research Commentary - Using Income Accounting as the Theoretical Basis for Measuring IT Productivity.
+Distinction and Status Production on User-Generated Content Platforms: Using Bourdieu's Theory of Cultural Production to Understand Social Dynamics in Online Fields.
+Cloud Implications on Software Network Structure and Security Risks.
+Online Gambling Behavior: The Impacts of Cumulative Outcomes, Recent Outcomes, and Prior Use.
+The Central Role of Engagement in Online Communities.
+Latent Growth Modeling for Information Systems: Theoretical Extensions and Practical Applications.
+The "Most Popular News" Recommender: Count Amplification and Manipulation Resistance.
+An Empirical Analysis of the Impact of Pre-Release Movie Piracy on Box Office Revenue.
+Research Note - The Allure of Homophily in Social Media: Evidence from Investor Responses on Virtual Communities.
+Research Note - Industry-Specific Human Capital and Wages: Evidence from the Business Process Outsourcing Industry.
+Research Note - Heuristic Theorizing: Proactively Generating Design Theories.
+Research Note - Discriminant Analysis with Strategically Manipulated Data.
+Editorial Notes.
+The IQ of the Crowd: Understanding and Improving Information Quality in Structured User-Generated Content.
+Feeling Blue? Go Online: An Empirical Study of Social Support Among Patients.
+Effects of ICT Service Innovation and Complementary Strategies on Brand Equity and Customer Loyalty in a Consumer Technology Market.
+Optimal Management of Digital Content on Tiered Infrastructure Platforms.
+Lateral Coordination Mechanisms and the Moderating Role of Arrangement Characteristics in Information Systems Development Outsourcing.
+Research Note - Partial Least Squares and Models with Formatively Specified Endogenous Constructs: A Cautionary Note.
+Editors' Preface.
+Conflating Antecedents and Formative Indicators: A Comment on Aguirre-Urreta and Marakas.
+A Rejoinder to Rigdon et al. (2014).
+Special Section Introduction - Information, Technology, and the Changing Nature of Work.
+Social Media, Knowledge Sharing, and Innovation: Toward a Theory of Communication Visibility.
+Patient Data as Medical Facts: Social Media Practices as a Foundation for Medical Knowledge Creation.
+Infrastructuring Work: Building a State-Wide Hospital Information Infrastructure in India.
+Efficacy of R&D Work in Offshore Captive Centers: An Empirical Study of Task Characteristics, Coordination Mechanisms, and Performance.
+Doing Business with Strangers: Reputation in Online Service Marketplaces.
+Editorial Notes.
+Introduction to the Special Issue - Social Media and Business Transformation: A Framework for Research.
+When Social Media Can Be Bad for You: Community Feedback Stifles Consumer Creativity and Reduces Satisfaction with Self-Designed Products.
+Social Network Effects on Productivity and Job Security: Evidence from the Adoption of a Social Networking Tool.
+Active Social Media Management: The Case of Health Care.
+Social Ties and User Content Generation: Evidence from Flickr.
+Social Media Brand Community and Consumer Behavior: Quantifying the Relative Impact of User- and Marketer-Generated Content.
+The Effect of Customers' Social Media Participation on Customer Visit Frequency and Profitability: An Empirical Investigation.
+Predicting Adoption Probabilities in Social Networks.
+Social Media and Firm Equity Value.
+Engineering Optimal Network Effects via Social Media Features and Seeding in Markets for Digital Goods and Services.
+The Effects of Rewarding User Engagement: The Case of Facebook Apps.
+The Association Between the Disclosure and the Realization of Information Security Risk Factors.
+Breaking the Ice in B2C Relationships: Understanding Pre-Adoption E-Commerce Attraction.
+Digital Divide Initiative Success in Developing Countries: A Longitudinal Field Study in a Village in India.
+Governance of Interorganizational Information Systems: A Resource Dependence Perspective.
+Ensuring Employees' IT Compliance: Carrot or Stick?
+Contracting Information Security in the Presence of Double Moral Hazard.
+The Effects of Diversity in Global, Distributed Collectives: A Study of Open Source Project Success.
+The Framing Effects of Multipart Pricing on Consumer Purchasing Behavior of Customized Information Good Bundles.
+Multicommunicating: Juggling Multiple Conversations in the Workplace.
+Sequential Pricing of Multiple Products: Leveraging Revealed Preferences of Retail Customers Online and with Auto-ID Technologies.
+Efficiency with Linear Prices? A Game-Theoretical and Computational Analysis of the Combinatorial Clock Auction.
+Pricing of Wireless Services: Service Pricing vs. Traffic Pricing.
+Fighting Fire with Fire: Commercial Piracy and the Role of File Sharing on Copyright Protection Policy for Digital Goods.
+An Investigation of the Appropriation of Technology-Mediated Training Methods Incorporating Enactive and Collaborative Learning.
+Research Note - Do Large Firms Become Smaller by Using Information Technology?
+An Empirical Examination of the Antecedents and Consequences of Contribution Patterns in Crowd-Funded Markets.
+All Are Not Equal: An Examination of the Economic Returns to Different Forms of Participation in Open Source Software Communities.
+Networks, Social Influence, and the Choice Among Competing Innovations: Insights from Open Source Software Licenses.
+An Empirical Analysis of Technical Efficiency: The Role of IT Intensity and Competition.
+Research Note - Privacy Concerns and Privacy-Protective Behavior in Synchronous Online Social Interactions.
+Promotional Marketing or Word-of-Mouth? Evidence from Online Restaurant Reviews.
+How Is the Mobile Internet Different? Search Costs and Local Activities.
+From Use to Effective Use: A Representation Theory Perspective.
+Motivational Differences Across Post-Acceptance Information System Usage Behaviors: An Investigation in the Business Intelligence Systems Context.
+To Personalize or Not to Personalize Online Purchase Interactions: Implications of Self-Selection by Retailers.
+Moving from Access to Use of the Information Infrastructure: A Multilevel Sociotechnical Framework.
+On Risk Management with Information Flows in Business Processes.
+The Impact and Implications of On-Demand Services on Market Structure.
+Ascending Combinatorial Auctions with Allocation Constraints: On Game Theoretical and Computational Properties of Generic Pricing Rules.
+IT Implementation Contract Design: Analytical and Experimental Investigation of IT Value, Learning, and Contract Structure.
+Status Locality on the Web: Implications for Building Focused Collections.
+Interdependencies in IT Infrastructure Services: Analyzing Service Processes for Optimal Incentive Design.
+Research Note - A View from the Top: Integrated Information Delivery and Effective Information Use from the Senior Executive's Perspective.
+Research Note - A Contingency Approach to Investigating the Effects of User-System Interaction Modes of Online Decision Aids.
+Editorial Notes.
+Research Commentary - Information in Digital, Economic, and Social Networks.
+Research Commentary - Too Big to Fail: Large Samples and the p-Value Problem.
+Blunting Damocles' Sword: A Longitudinal Model of Healthcare IT Impact on Malpractice Insurance Premium and Quality of Patient Care.
+From Knowing It to "Getting It": Envisioning Practices in Computer Games Development.
+Do Recommender Systems Manipulate Consumer Preferences? A Study of Anchoring Effects.
+Information Technology Competencies, Organizational Agility, and Firm Performance: Enabling and Facilitating Roles.
+Product-Oriented Web Technologies and Product Returns: An Exploratory Study.
+A Real Options Model for Generalized Meta-Staged Projects - Valuing the Migration to SOA.
+Outsourcing Contracts and Equity Prices.
+Information Valuation and Confirmation Bias in Virtual Communities: Evidence from Stock Message Boards.
+Licensing and Competition for Services in Open Source Software.
+Research Note - A Dynamic View of the Impact of Network Structure on Technology Adoption: The Case of OSS Development.
+Research Note - The Value of Third-Party Assurance Seals in Online Retailing: An Empirical Investigation.
+Research Note - Continued Participation in Online Innovation Communities: Does Community Response Matter Equally for Everyone?
+Research Note - The Impact of Intellectual Property Rights Enforcement on Open Source Software Project Success.
+Research Note - Business Value of Information Technology: Testing the Interaction Effect of IT and R&D on Tobin's Q.
+Research Commentary - Moving Beyond the Single Site Implementation Study: How (and Why) We Should Study the Biography of Packaged Enterprise Solutions.
+Social Networks and the Diffusion of User-Generated Content: Evidence from YouTube.
+Information Technology and Intangible Output: The Impact of IT Investment on Innovation Productivity.
+Competitive Behavior-Based Price Discrimination for Software Upgrades.
+Effects of Information Revelation Policies Under Cost Uncertainty.
+Switching Costs, Network Effects, and Competition in the European Mobile Telecommunications Industry.
+Modeling Spatial and Temporal Set-Based Constraints During Conceptual Database Design.
+IT Outsourcing Contracts and Performance Measurement.
+How Peripheral Developers Contribute to Open-Source Software Development.
+Online and Offline Demand and Price Elasticities: Evidence from the Air Travel Industry.
+Research Note - The Impact of External Word-of-Mouth Sources on Retailer Sales of High-Involvement Products.
+Research Note - Online Users' Switching Costs: Their Nature and Formation.
+Research Note - A Multilevel Analysis of the Effect of Group Appropriation on Collaborative Technologies Use and Performance.
+Research Note - The Halo Effect in Multicomponent Ratings and Its Implications for Recommender Systems: The Case of Yahoo! Movies.
+Research Note - To Continue Sharing or Not to Continue Sharing? An Empirical Analysis of User Decision in Peer-to-Peer Sharing Networks.
+Research Note - Codiffusion of Wireless Voice and Data Services: An Empirical Analysis of the Japanese Mobile Telecommunications Market.
+Are New IT-Enabled Investment Opportunities Diminishing for Firms?
+Blog, Blogger, and the Firm: Can Negative Employee Posts Lead to Positive Outcomes?
+Ambidexterity in Agile Distributed Development: An Empirical Investigation.
+Relative Industry Concentration and Customer-Driven IT Spillovers.
+Cooperative Cashing? An Economic Analysis of Document Duplication in Cooperative Web Caching.
+Institutional Contradictions and Loose Coupling: Postimplementation of NASA's Enterprise Information System.
+Modeling Supply-Side Dynamics of IT Components, Products, and Infrastructure: An Empirical Analysis Using Vector Autoregression.
+Reputation and Uncertainty in Online Markets: An Experimental Study.
+Managing Data Quality Risk in Accounting Information Systems.
+Expectation Confirmation in Technology Use.
+Optimal Software Free Trial Strategy: The Impact of Network Externalities and Consumer Uncertainty.
+SOA Performance Enhancement Through XML Fragment Caching.
+Research Note - Lock-In Strategy in Software Competition: Open-Source Software vs. Proprietary Software.
+Research Note - Generating Shareable Statistical Databases for Business Value: Multiple Imputation with Multimodal Perturbation.
+Research Note - Online Price Dispersion: A Game-Theoretic Perspective and Empirical Evidence.
+The Productivity of Information Technology Investments: New Evidence from IT Labor Data.
+An Empirical Analysis of the Contractual and Information Structures of Business Process Outsourcing Relationships.
+Postrelease Testing and Software Release Policy for Enterprise-Level Systems.
+The Effects of Social Network Structure on Enterprise Systems Success: A Longitudinal Multilevel Analysis.
+What's in a "Name"? Impact of Use of Customer Information in E-Mail Advertisements.
+From Business Intelligence to Competitive Intelligence: Inferring Competitive Measures Using Augmented Site-Centric Data.
+Does the Web Reduce Customer Service Cost? Empirical Evidence from a Call Center.
+Electronic Health Records Assimilation and Physician Identity Evolution: An Identity Theory Perspective.
+Design Principles of Integrated Information Platform for Emergency Responses: The Case of 2008 Beijing Olympic Games.
+Pricing Models for Online Advertising: CPM vs. CPC.
+A Computational Analysis of Bundle Trading Markets Design for Distributed Resource Allocation.
+Information, Technology, and Information Worker Productivity.
+The Impact of IT-Related Spillovers on Long-Run Productivity: An Empirical Analysis.
+The Learning Curve of IT Knowledge Workers in a Computing Call Center.
+Advertising Strategies in Electronic Retailing: A Differential Games Approach.
+Institutional Influences on Information Systems Security Innovations.
+The Boundaries of Trust and Risk: The Quadratic Moderating Role of Institutional Structures.
+Content Provision Strategies in the Presence of Content Piracy.
+Putting Money Where the Mouths Are: The Relation Between Venture Financing and Electronic Word-of-Mouth.
+The Cross-Purposes of Cross-Posting: Boundary Reshaping Behavior in Online Discussion Communities.
+Research Note - Using Real Options to Investigate the Market Value of Virtual World Businesses.
+Research Note - Performance-Based Advertising: Advertising as Signals of Product Quality.
+Research Note - Do Electronic Linkages Reduce the Bullwhip Effect? An Empirical Analysis of the U.S. Manufacturing Supply Chains.
+Research Note - Music Blogging, Online Sampling, and the Long Tail.
+Research Note - The Cost Impact of Spam Filters: Measuring the Effect of Information System Technologies in Organizations.
+Editorial Notes.
+Research Commentary - Generalizability of Information Systems Research Using Student Subjects - A Reflection on Our Practices and Recommendations for Future Research.
+Advancing Public Trust Relationships in Electronic Government: The Singapore E-Filing Journey.
+Adoption and Impacts of Interorganizational Business Process Standards: Role of Partnering Synergy.
+Corporate IT Standardization: Product Compatibility, Exclusive Purchase Commitment, and Competition Effects.
+Synergy and Its Limits in Managing Information Technology Professionals.
+User Satisfaction with Information Technology Service Delivery: A Social Capital Perspective.
+Ushering Buyers into Electronic Channels: An Empirical Analysis.
+What Motivates People to Purchase Digital Items on Virtual Community Websites? The Desire for Online Self-Presentation.
+Two Worlds of Trust for Potential E-Commerce Users: Humans as Cognitive Misers.
+Real-Time Tactical and Strategic Sales Management for Intelligent Agents Guided by Economic Regimes.
+Effects of the Presence of Organic Listing in Search Advertising.
+Network Neutrality and Congestion Sensitive Content Providers: Implications for Content Variety, Broadband Investment, and Regulation.
+Underlying Consumer Heterogeneity in Markets for Subscription-Based IT Services with Network Effects.
+Research Note - Effects of Individual Self-Protection, Industry Self-Regulation, and Government Regulation on Privacy Concerns: A Study of Location-Based Services.
+Research Note - Analyzing Pricing Strategies for Online Services with Network Effects.
+Editorial Notes.
+Managing the Versions of a Software Product Under Variable and Endogenous Demand.
+Firms as Incubators of Open-Source Software.
+Examining the Strategic Alignment and Implementation Success of a KMS: A Subculture-Based Multilevel Analysis.
+The Debate on Net Neutrality: A Policy Perspective.
+Price Formats as a Source of Price Dispersion: A Study of Online and Offline Prices in the Domestic U.S. Airline Markets.
+REQUEST: A Query Language for Customizing Recommendations.
+A Finite Mixture Logit Model to Segment and Predict Electronic Payments System Adoption.
+Profiting from Knowledge Management: The Impact of Time and Experience.
+Competing "Creatively" in Sponsored Search Markets: The Effect of Rank, Differentiation Strategy, and Competition on Performance.
+Conceptualizing and Testing a Social Cognitive Model of the Digital Divide.
+Compatibility and Proprietary Standards: The Impact of Conversion Technologies in IT Markets with Network Effects.
+Editorial Notes.
+An Analysis of Incentives for Network Infrastructure Investment Under Different Pricing Strategies.
+Addressing Digital Inequality for the Socioeconomically Disadvantaged Through Government Initiatives: Forms of Capital That Affect ICT Utilization.
+The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study.
+Using Transaction Prices to Re-Examine Price Dispersion in Electronic Markets.
+Vendor and Client Interaction for Requirements Assessment in Software Development: Implications for Feedback Process.
+Contracting Efficiency and New Firm Survival in Markets Enabled by Information Technology.
+Analyzing Sharing in Peer-to-Peer Networks Under Various Congestion Measures.
+An Experimental Comparison of Linear and Nonlinear Price Combinatorial Auctions.
+Information Technology and Firm Boundaries: Impact on Firm Risk and Return Performance.
+Environmental Uncertainty and IT Infrastructure Governance: A Curvilinear Relationship.
+Punishment, Justice, and Compliance in Mandatory IT Settings.
+The Impact of Automation of Systems on Medical Errors: Evidence from Field Research.
+The Digitization of Healthcare: Boundary Risks, Emotion, and Consumer Willingness to Disclose Personal Health Information.
+An Analysis of the Adoption of Digital Health Records Under Switching Costs.
+IS Avoidance in Health-Care Groups: A Multilevel Investigation.
+"Doctors Do Too Little Technology": A Longitudinal Field Study of an Electronic Healthcare System Implementation.
+Unity in Diversity: Electronic Patient Record Use in Multidisciplinary Practice.
+Evolving Work Routines: Adaptive Routinization of Information Technology in Healthcare.
+Learning Curves of Agents with Diverse Skills in Information Technology-Enabled Physician Referral Systems.
+When Hackers Talk: Managing Information Security Under Variable Attack Rates and Knowledge Dissemination.
+Determining Optimal CRM Implementation Strategies.
+Putting Yourself in the Picture: An Evaluation of Virtual Model Technology as an Online Shopping Tool.
+Timing of Adaptive Web Personalization and Its Effects on Online Consumer Behavior.
+Editorial Notes - Reflections on Year One: A 2011 Retrospective.
+Research Commentary - NeuroIS: The Potential of Cognitive Neuroscience for Information Systems Research.
+Cross-Business Information Technology Integration and Acquirer Value Creation in Corporate Mergers and Acquisitions.
+Pricing Digital Goods: Discontinuous Costs and Shared Infrastructure.
+Usercentric Operational Decision Making in Distributed Information Retrieval.
+Risk Management and Optimal Pricing in Online Storage Grids.
+Protecting Privacy Against Record Linkage Disclosure: A Bounded Swapping Approach for Numeric Data.
+A Hidden Markov Model of Developer Learning Dynamics in Open Source Software Projects.
+Identifying and Testing the Inhibitors of Technology Usage Intentions.
+Research Note - Returns to Information Technology Outsourcing.
+Research Note - The Impact of Community Commitment on Participation in Online Communities.
+Research Note - Knowledge Exploration and Exploitation: The Impacts of Psychological Climate and Knowledge Management System Access.
+Issues and Opinions - IT Careers Camp: An Early Intervention Strategy to Increase IS Enrollments.
+On Evaluating Information Revelation Policies in Procurement Auctions: A Markov Decision Process Approach.
+Contractual Provisions to Mitigate Holdup: Evidence from Information Technology Outsourcing.
+Is Query Reuse Potentially Harmful? Anchoring and Adjustment in Adapting Existing Database Queries.
+Use of Pricing Schemes for Differentiating Information Goods.
+Design and Analysis of Contracts for Software Outsourcing.
+An Empirical Analysis of Software Vendors' Patch Release Behavior: Impact of Vulnerability Disclosure.
+Ex Ante Information and the Design of Keyword Auctions.
+Electronic Markets, Search Costs, and Firm Boundaries.
+Induction over Strategic Agents.
+Research Note - Quality Uncertainty and the Performance of Online Sponsored Search Markets: An Empirical Investigation.
+Research Commentary - Information Transparency in Business-to-Consumer Markets: Concepts, Framework, and Research Agenda.
+Resource Allocation Policies for Personalization in Content Delivery Sites.
+Technological Frames, Organizational Capabilities, and IT Use: An Empirical Investigation of Electronic Procurement.
+Diffusion Models for Peer-to-Peer (P2P) Media Distribution: On the Impact of Decentralized, Constrained Supply.
+Complementarities Between Organizational IT Architecture and Governance Structure.
+Assessing Screening and Evaluation Decision Support Systems: A Resource-Matching Approach.
+Visualization of Network Concepts: The Impact of Working Memory Capacity Differences.
+Predicting Web Page Status.
+Research Note - Toward a Causal Interpretation from Observational Data: A New Bayesian Networks Method for Structural Models with Latent Variables.
+Research Note - Does Technological Progress Alter the Nature of Information Technology as a Production Input? New Evidence and New Results.
+Editorial Commentary - Digital Systems and Competition.
+Balancing IT with the Human Touch: Optimal Investment in IT-Based Customer Service.
+The "Third Hand": IT-Enabled Competitive Advantage in Turbulence Through Improvisational Capabilities.
+Changing the Competitive Landscape: Continuous Innovation Through IT-Enabled Knowledge Capabilities.
+Managerial Interpretations of the Role of Information Systems in Competitive Actions and Firm Performance: A Grounded Theory Investigation.
+Leveraging IT Capabilities and Competitive Process Capabilities for the Management of Interorganizational Relationship Portfolios.
+Information Technology, Network Structure, and Competitive Action.
+A Network Perspective of Digital Competition in Online Advertising Industries: A Simulation-Based Approach.
+Competitive Actions and Dynamics in the Digital Age: An Empirical Investigation of Social Networking Firms.
+Competing in Crowded Markets: Multimarket Contact and the Nature of Competition in the Enterprise Systems Software Industry.
+Why Do Software Firms Fail? Capabilities, Competitive Actions, and Firm Survival in the Software Industry from 1995 to 2007.
+Editorial Notes.
+The Early Years of ISR: Recollections of the Editors.
+Research Commentary - Platform Evolution: Coevolution of Platform Architecture, Governance, and Environmental Dynamics.
+Research Commentary - Designing Smart Markets.
+Research Commentary - The Design, Use, and Consequences of Virtual Processes.
+Research Commentary - Digital Natives and Ubiquitous Information Systems.
+Research Commentary - The New Organizing Logic of Digital Innovation: An Agenda for Information Systems Research.
+Research Commentary - Long Tails vs. Superstars: The Effect of Information Technology on Product Variety and Sales Concentration Patterns.
+Research Commentary - Digital Infrastructures: The Missing IS Research Agenda.
+Research Commentary - Sponsored Search and Market Efficiency.
+Research Commentary-Vigilant Interaction in Knowledge Collaboration: Challenges of Online User Participation Under Ambivalence.
+Research Commentary - Cooperation, Coordination, and Governance in Multisourcing: An Agenda for Analytical and Empirical Research.
+Research Commentary - The Digital Transformation of Healthcare: Current Status and the Road Ahead.
+Research Commentary - Virtual Worlds: A Performative Perspective on Globally Distributed, Immersive Work.
+Research Commentary - Reframing the Dominant Quests of Information Systems Strategy Research for Complex Adaptive Business Systems.
+Research Commentary - Seeking the Configurations of Digital Ecodynamics: It Takes Three to Tango.
+Alliances, Rivalry, and Firm Performance in Enterprise Systems Software Markets: A Social Network Approach.
+Let's Shop Online Together: An Empirical Investigation of Collaborative Online Shopping Support.
+The Interaction Between Knowledge Codification and Knowledge-Sharing Networks.
+Understanding Willingness-to-Pay Formation of Repeat Bidders in Sequential Online Auctions.
+Complementarities in the Diffusion of Personal Computers and the Internet: Implications for the Global Digital Divide.
+Research Note - Applying the Randomized Response Technique to Elicit Truthful Responses to Sensitive Questions in IS Research: The Case of Software Piracy Behavior.
+Research Note - The Role of Organizational Controls and Boundary Spanning in Software Development Outsourcing: Implications for Project Performance.
+Research Note - Mapping the Field of Virtual Work: A Cocitation Analysis.
+Editorial Notes.
+Does Fit Matter? The Impact of Task-Technology Fit and Appropriation on Team Performance in Repeated Tasks.
+Research Note - Information Technology in Supply Chains: The Value of IT-Enabled Resources Under Competition.
+A Computational Analysis of Linear Price Iterative Combinatorial Auction Formats.
+The Influence of Website Characteristics on a Consumer's Urge to Buy Impulsively.
+User Awareness of Security Countermeasures and Its Impact on Information Systems Misuse: A Deterrence Approach.
+Impact of the Union and Difference Operations on the Quality of Information Products.
+Choice and Chance: A Conceptual Model of Paths to Information Security Compromise.
+Research Note - Investments in Information Technology: Indirect Effects and Information Technology Intensity.
+Antecedents of IS Strategic Alignment: A Nomological Network.
+Governance-Knowledge Fit in Systems Development Projects.
+Configuration of and Interaction Between Information Security Technologies: The Case of Firewalls and Intrusion Detection Systems.
+Willingness to Pay in an Open Source Software Environment.
+Trust and Satisfaction, Two Stepping Stones for Successful E-Commerce Relationships: A Longitudinal Exploration.
+Demand Heterogeneity in IT Infrastructure Services: Modeling and Evaluation of a Dynamic Approach to Defining Service Levels.
+Research Note - Social Interactions and the "Digital Divide": Explaining Variations in Internet Use.
+From Association to Causation via a Potential Outcomes Approach.
+Introduction to the Special Issue - Flexible and Distributed Information Systems Development: State of the Art and Research Challenges.
+Agility from First Principles: Reconstructing the Concept of Agility in Information Systems Development.
+Coevolving Systems and the Organization of Agile Software Development.
+A Control Theory Perspective on Agile Methodology Use and Changing User Requirements.
+Control of Flexible Software Development Under Uncertainty.
+Crossing Spatial and Temporal Boundaries in Globally Distributed Projects: A Relational Model of Coordination Delay.
+Exploring Agility in Distributed Information Systems Development Teams: An Interpretive Study in an Offshoring Context.
+Research Commentary - Weighing the Benefits and Costs of Flexibility in Making Software: Toward a Contingency Theory of the Determinants of Development Process Design.
+Editorial Notes.
+An Empirical Analysis of Contract Structures in IT Outsourcing.
+Designing Intelligent Software Agents for Auctions with Limited Information Feedback.
+How Incorporating Feedback Mechanisms in a DSS Affects DSS Evaluations.
+Trans-Situated Learning: Supporting a Network of Practice with an Information Infrastructure.
+An Empirical Investigation of End-User Query Development: The Effects of Improved Model Expressiveness vs. Complexity.
+Competitive Environment and the Relationship Between IT and Vertical Integration.
+Acknowledgment of Reviewers.
+Editorial Note.
+CONQUER: A Methodology for Context-Aware Query Processing on the World Wide Web.
+Using Self-Regulatory Learning to Enhance E-Learning-Based Information Technology Training.
+Let the Pirates Patch? An Economic Analysis of Software Security Patch Restrictions.
+A Comparison of Pair Versus Solo Programming Under Different Objectives: An Analytical Approach.
+Research Note - How Does Personality Matter? Relating the Five-Factor Model to Technology Acceptance and Use.
+Research Note - A Value-at-Risk Approach to Information Security Investment.
+Editorial Note.
+Predictors of Formal Control Usage in IT Outsourcing Partnerships.
+Capacity Provision Networks: Foundations of Markets for Sharable Resources in Distributed Computational Economies.
+Addressing the What and How of Online Services: Positioning Supporting-Services Functionality and Service Quality for Business-to-Consumer Success.
+Marketspace or Marketplace? Online Information Search and Channel Outcomes in Auto Retailing.
+Research Note - On Vendor Preferences for Contract Types in Offshore Software Projects: The Case of Fixed Price vs. Time and Materials Contracts.
+Research Note - Awareness Displays and Social Motivation for Coordinating Communication.
+Editorial Overview - The Interplay Between Digital and Social Networks.
+Casting the Net: A Multimodal Network Perspective on User-System Interactions.
+The Effects of the Social Structure of Digital Networks on Viral Marketing Performance.
+Examining the Relationship Between Reviews and Sales: The Role of Reviewer Identity Disclosure in Electronic Markets.
+Social Capital and Knowledge Integration in Digitally Enabled Teams.
+Research Note - Towards Dynamic Visualization for Understanding Evolution of Digital Communication Networks.
+The Impact of Information Diffusion on Bidding Behavior in Secret Reserve Price Auctions.
+Emergence of New Project Teams from Open Source Software Developer Networks: Impact of Prior Collaboration Ties.
+Acknowledgment of Reviewers.
+Editorial Notes.
+Consumer Surplus in Online Auctions.
+The Consequences of Technostress for End Users in Organizations: Conceptual Development and Empirical Validation.
+Research Note - A Model of Conflict, Leadership, and Performance in Virtual Teams.
+Self-Selection and Information Role of Online Product Reviews.
+From Peer Production to Productization: A Study of Socially Enabled Business Exchanges in Open Source Service Networks.
+The Role of Feedback in Managing the Internet-Based Volunteer Work Force.
+Acknowledgment of Reviewers.
+Editorial Notes.
+Decision-Centric Active Learning of Binary-Outcome Models.
+Releasing Individually Identifiable Microdata with Privacy Protection Against Stochastic Threat: An Application to Health Information.
+Through a Glass Darkly: Information Technology Design, Identity Verification, and Knowledge Contribution in Online Communities.
+Competition Among Virtual Communities and User Valuation: The Case of Investing-Related Communities.
+Impact of International Information Technology Transfer on National Productivity.
+Antecedents and Consequences of Internet Use in Procurement: An Empirical Investigation of U.S. Manufacturing Firms.
+Editorial Notes.
+Issues and Opinions - Information Technologies in Business: A Blueprint for Education and Research.
+Issues and Opinions - Those to Whom IT Matters Most: Perspectives of IT Faculty on Curricula, Courses, and Class Materials.
+Product Development and Pricing Strategy for Information Goods Under Heterogeneous Outside Opportunities.
+Information System Use - Related Activity: An Expanded Behavioral Conceptualization of Individual-Level Information System Use.
+Research Note - Comparing IT Workers' Compensation Across Country Contexts: Demographic, Human Capital, and Institutional Factors.
+Research Note - Statistical Power in Analyzing Interaction Effects: Questioning the Advantage of PLS with Product Indicators.
+Call for Papers - Information Systems Research Special Issue: Digital Systems and Competition.
+Editorial Overview - The Digitally Enabled Extended Enterprise in a Global Economy.
+Is the World Flat or Spiky? Information Intensity, Skills, and Global Service Disaggregation.
+Leveraging Standard Electronic Business Interfaces to Enable Adaptive Supply Chain Partnerships.
+The Choice of Sourcing Mechanisms for Business Processes.
+The Impact of Internet Referral Services on a Supply Chain.
+IS Application Capabilities and Relational Value in Interfirm Partnerships.
+Assimilation of Interorganizational Business Process Standards.
+Editorial Note.
+Risk and Return of Information Technology Initiatives: Evidence from Electronic Commerce Announcements.
+Adoption of Information Technology Under Network Effects.
+A Model of Search Intermediaries and Paid Referrals.
+The Performance Effects of Complementarities Between Information Systems, Marketing, Manufacturing, and Supply Chain Processes.
+Research Note - Investigating the Influence of the Functional Mechanisms of Online Product Presentations.
+Editorial Notes.
+Internet Exchanges for Used Books: An Empirical Analysis of Product Cannibalization and Welfare Impact.
+When the Wait Isn't So Bad: The Interacting Effects of Website Delay, Familiarity, and Breadth.
+Conceptualizing Systems for Understanding: An Empirical Test of Decomposition Principles in Object-Oriented Analysis.
+An Extended Privacy Calculus Model for E-Commerce Transactions.
+Understanding Conceptual Schemas: Exploring the Role of Application and IS Domain Knowledge.
+Call for Papers - Information Systems Research Special Issue: The Interplay Between Digital and Social Networks.
+Editorial Notes.
+Issues and Opinions - Publication Opportunities in Premier Business Outlets: How Level Is the Playing Field?
+Impacts of License Choice and Organizational Sponsorship on User Interest and Development Activity in Open Source Software Projects.
+ERP Investments and the Market Value of Firms: Toward an Understanding of Influential ERP Project Variables.
+Understanding the Adoption of Multipurpose Information Appliances: The Case of Mobile Data Services.
+Research Note - Information Technology, Contract Completeness, and Buyer-Supplier Relationships.
+Editorial Notes.
+From IT Leveraging Competence to Competitive Advantage in Turbulent Environments: The Case of New Product Development.
+Reconceptualizing System Usage: An Approach and Empirical Test.
+On the Optimality of Fixed-up-to Tariff for Telecommunications Service.
+Privacy Protection in Data Mining: A Perturbation Approach for Categorical Data.
+How Often Should Reputation Mechanisms Update a Trader's Reputation Profile?
+The Effects of Trust-Assuring Arguments on Consumer Trust in Internet Stores: Application of Toulmin's Model of Argumentation.
+The Effectiveness of Knowledge Transfer Portfolios in Software Process Improvement: A Field Study.
+Information Systems Research Special Issue: Flexible and Distributed Information Systems Development.
+Editorial Notes - The Growth of Interest in Services Management: Opportunities for Information Systems Scholars.
+Perceived Information Quality in Data Exchanges: Effects on Risk, Trust, and Intention to Use.
+Understanding the Impact of Collaboration Software on Product Design and Development.
+Formulating the Data-Flow Perspective for Business Process Management.
+The Nature and Role of Feedback Text Comments in Online Marketplaces: Implications for Trust Building, Price Premiums, and Seller Differentiation.
+Research Note: Individual Cognition and Dual-Task Interference in Group Support Systems.
+Research Note: The Influence of Recommendations and Consumer Reviews on Evaluations of Websites.
+Editorial Notes.
+Perceived Individual Collaboration Know-How Development Through Information Technology - Enabled Contextualization: Evidence from Distributed Teams.
+The Value of Intrusion Detection Systems in Information Technology Security Architecture.
+Competition Among Sellers in Online Exchanges.
+Post-Adoption Variations in Usage and Value of E-Business by Organizations: Cross-Country Evidence from the Retail Industry.
+A Theoretical Integration of User Satisfaction and Technology Acceptance.
+Editorial Notes.
+Collaborating on Multiparty Information Systems Development Projects: A Collective Reflection-in-Action View.
+Lying on the Web: Implications for Expert Systems Redesign.
+Is Out of Sight, Out of Mind? An Empirical Study of Social Loafing in Technology-Supported Groups.
+Toward Comprehensive Real-Time Bidder Support in Iterative Combinatorial Auctions.
+The Economic Incentives for Sharing Security Information.
+Reputation Mechanism Design in Online Trading Environments with Pure Moral Hazard.
+Editorial Notes.
+IT Human Resource Management Configurations and IT Turnover: Theoretical Synthesis and Empirical Analysis.
+Maximizing Accuracy of Shared Databases when Concealing Sensitive Patterns.
+Web Personalization as a Persuasion Strategy: An Elaboration Likelihood Model Perspective.
+Optimal Software Development: A Control Theoretic Approach.
+On Data Reliability Assessment in Accounting Information Systems.
+Information Systems Research Special Issue: The Interplay Between Digital and Social Networks.
+Editorial Notes.
+A Two-Stage Model of the Promotional Performance of Pure Online Firms.
+The Impact of E-Commerce on Competition in the Retail Brokerage Industry.
+Psychological Contract Violation in Online Marketplaces: Antecedents, Consequences, and Moderating Role.
+Managing Piracy: Pricing and Sampling Strategies for Digital Experience Goods in Vertically Segmented Markets.
+Research Note - Two Competing Perspectives on Automatic Use: A Theoretical and Empirical Comparison.
+Editorial Notes.
+A Fault Threshold Policy to Manage Software Development Projects.
+Economics of an Information Intermediary with Aggregation Benefits.
+Building Effective Online Marketplaces with Institution-Based Trust.
+Does Animation Attract Online Users' Attention? The Effects of Flash on Information Search Performance and Perceptions.
+A Practice Perspective on Technology-Mediated Network Relations: The Use of Internet-Based Self-Serve Technologies.
+Editorial Notes.
+IT Outsourcing Strategies: Universalistic, Contingency, and Configurational Explanations of Success.
+Real Options and IT Platform Adoption: Implications for Theory and Practice.
+An Empirical Analysis of Network Externalities in Peer-to-Peer Music-Sharing Networks.
+Impact of Environmental Uncertainty and Task Characteristics on User Satisfaction with Data.
+Information Overload and the Message Dynamics of Online Interaction Spaces: A Theoretical Model and Empirical Exploration.
+Editorial Notes.
+DSS Effectiveness in Marketing Resource Allocation Decisions: Reality vs. Perception.
+Hope or Hype: On the Viability of Escrow Services as Trusted Third Parties in Online Auction Environments.
+Toward Contextualized Theories of Trust: The Role of Trust in Global Virtual Teams.
+An Economic Model of Product Quality and IT Value.
+Managing Digital Piracy: Pricing and Protection.
+Editorial Notes.
+Toward an Integration of Agent- and Activity-Centric Approaches in Organizational Process Modeling: Incorporating Incentive Mechanisms.
+Internet Users' Information Privacy Concerns (IUIPC): The Construct, the Scale, and a Causal Model.
+IT Outsourcing Success: A Psychological Contract Perspective.
+Deploying Common Systems Globally: The Dynamics of Control.
+A Decision Model for Software Maintenance.
+Decentralized Mechanism Design for Supply Chain Organizations Using an Auction Market.
+XML - Based Schema Definition for Support of Interorganizational Workflow.
+Informational Influence in Organizations: An Integrated Approach to Knowledge Adoption.
+When Subordinates Become IT Contractors: Persistent Managerial Expectations in IT Outsourcing.
+The Social Construction of Meaning: An Alternative Perspective on Information Sharing.
+Information Goods Pricing and Copyright Enforcement: Welfare Analysis.
+Measuring Information Technology Payoff: A Meta - Analysis of Structural Variables in Firm - Level Empirical Research.
+Developing and Validating an Observational Learning Model of Computer Software Training and Skill Acquisition.
+The Impact of Experience and Time on the Use of Data Quality Information in Decision Making.
+A Partial Least Squares Latent Variable Modeling Approach for Measuring Interaction Effects: Results from a Monte Carlo Simulation Study and an Electronic - Mail Emotion/Adoption Study.
+Generalizing Generalizability in Information Systems Research.
+Replicating Online Yankee Auctions to Analyze Auctioneers' and Bidders' Strategies.
+Improving Analysis Pattern Reuse in Conceptual Design: Augmenting Automated Processes with Supervised Learning.
+Portfolios of Control in Outsourced Software Development Projects.
+The Influence of Business Managers' IT Competence on Championing IT.
+Synthesis and Decomposition of Processes in Organizations.
+A Research Note Regarding the Development of the Consensus on Appropriation Scale.
+Authors' Reply to Allport and Kerler (2003).
+Research Commentary: Workflow Management Issues in e-Business.
+Model Composition Using Filter Spaces.
+An Empirical Examination of the Concern for Information Privacy Instrument.
+Assessing the Validity of IS Success Models: An Empirical Test and Theoretical Analysis.
+Group Polarization and Computer-Mediated Communication: Effects of Communication Cues, Social Presence, and Anonymity.
+Research Report: Better Theory Through Measurement-Developing a Scale to Capture Consensus on Appropriation.
+Research Report: Increasing Returns to Information Technology.
+Measuring e-Commerce in Net-Enabled Organizations: An Introduction to the Special Issue.
+NEBIC: A Dynamic Capabilities Theory for Assessing Net-Enablement.
+The Net-Enabled Business Innovation Cycle and the Evolution of Dynamic Capabilities.
+Web Site Usability, Design, and Performance Metrics.
+Assessing a Firm's Web Presence: A Heuristic Evaluation Procedure for the Measurement of Usability.
+Measuring Factors that Influence the Success of Internet Commerce.
+Applying the Technology Acceptance Model and Flow Theory to Online Consumer Behavior.
+Toward New Metrics for Net-Enhanced Organizations.
+Businesses as Buildings: Metrics for the Architectural Quality of Internet Businesses.
+Measuring Switching Costs and the Determinants of Customer Retention in Internet-Enabled Businesses: A Study of the Online Brokerage Industry.
+e-Commerce Metrics for Net-Enhanced Organizations: Assessing the Value of e-Commerce to Firm Performance in the Manufacturing Sector.
+The Measurement of Web-Customer Satisfaction: An Expectation and Disconfirmation Approach.
+Antecedents of B2C Channel Satisfaction and Preference: Validating e-Commerce Metrics.
+Developing and Validating Trust Measures for e-Commerce: An Integrative Typology.
+Research Commentary: Information Systems and Conceptual Modeling - A Research Agenda.
+Research Commentary: The Next Wave of Nomadic Computing.
+The Security of Confidential Numerical Data in Databases.
+A Comparative Study of Distributed Learning Environments on Learning Outcomes.
+Potential Research Space in MIS: A Framework for Envisioning and Evaluating Research Replication, Extension, and Generation.
+Research Report: Intrafirm Resource Allocation with Asymmetric Information and Negative Externalities.
+Research Commentary: Technology-Mediated Learning - A Call for Greater Depth and Breadth of Research.
+Alignment Between Business and IS Strategies: A Study of Prospectors, Analyzers, and Defenders.
+A Foundation for Flexible Automated Electronic Communication.
+Cognitive Support for Real-Time Dynamic Decision Making.
+A Conceptual Model and Algebra for On-Line Analytical Processing in Decision Support Databases.
+Research Report: A Reexamination of IT Investment and the Market Value of the Firm - An Event Study Methodology.
+Research Commentary: Desperately Seeking the "IT" in IT Research - A Call to Theorizing the IT Artifact.
+The Impact of E-Commerce Announcements on the Market Value of Firms.
+Technology Requirements and Work Group Communication for Telecommuters.
+An Evaluation of Self-Organizing Map Networks as a Robust Alternative to Factor Analysis in Data Mining Applications.
+The Effects of Time Pressure on Quality in Software Development: An Agency Model.
+Research Report: Richness Versus Parsimony in Modeling Technology Adoption Decisions - Understanding Merchant Adoption of a Smart Card-Based Payment System.
+Research Commentary: Introducing a Third Dimension in Information Systems Design - The Case for Incentive Alignment.
+Combining IS Research Methods: Towards a Pluralist Methodology.
+Business Planning for Network Services: A Systems Thinking Approach.
+On Heterogeneous Database Retrieval: A Cognitively Guided Approach.
+Research Report: Empirical Test of an EDI Adoption Model.
+Research Report: Modifying Paradigms - Individual Differences, Creativity Techniques, and Exposure to Ideas in Group Idea Generation.
+Research Commentary: Transformational Issues in Researching IS and Net-Enabled Organizations.
+Membership Size, Communication Activity, and Sustainability: A Resource-Based Model of Online Social Structures.
+Collaborative Decision Making: A Connectionist Paradigm for Dialectical Support.
+Should Optional Properties Be Used in Conceptual Modelling? A Theory and Three Empirical Tests.
+Beyond EDI: Impact of Continuous Replenishment Program (CRP) Between a Manufacturer and Its Retailers.
+Modifications of Uncertain Data: A Bayesian Framework for Belief Revision.
+A Formal Approach to Workflow Analysis.
+Assessing User Competence: Conceptualization and Measurement.
+Opening the "Black Box" of Network Externalities in Network Adoption.
+Productivity of Information Systems in the Healthcare Industry.
+Using Repertory Grids to Conduct Cross-Cultural Information Systems Research.
+Research Commentary: The Organizing Logic for an Enterprise's IT Activities in the Digital Era - A Prognosis of Practice and a Call for Research.
+The Role of Multimedia in Changing First Impression Bias.
+Mean-Risk Trade-Offs in Inductive Expert Systems.
+The Production of Information Services: A Firm-Level Analysis of Information Systems Budgets.
+Integrating User Preferences and Real-Time Workload in Information Services.
+Innovation and Control in Standards Architectures: The Rise and Fall of Japan's PC-98.
+Editorial Notes.
+The Moderating Effects of Structure on Volatility and Complexity in Software Enhancement.
+The Performance Impacts of Quick Response and Strategic Alignment in Specialty Retailing.
+Knowledge Base Decomposition to Facilitate Verification.
+How Do We Understand a System with (So) Many Diagrams? Cognitive Integration Processes in Diagrammatic Reasoning.
+Research Report: Disruptive Technologies - Explaining Entry in Next Generation Information Technology Markets.
+Research Report: Modeling the Incidence of Postrelease Errors in Software.
+Editorial Notes.
+Research Commentary: An Agenda for Information Technology Research in Heterogeneous and Distributed Environments.
+Determinants of Perceived Ease of Use: Integrating Control, Intrinsic Motivation, and Emotion into the Technology Acceptance Model.
+Memory-Based Feedback Controls to Support Groupware Coordination.
+Providing Decisional Guidance for Multicriteria Decision Making in Groups.
+Research Report: The Role of Behavioral Modeling in Computer Skills Acquisition: Toward Refinement of the Model.
+Research Report: The Evolving Relationship Between General and Specific Computer Self-Efficacy - An Empirical Assessment.
+Electronic Trading and Work Transformation in the London Insurance Market.
+Depicting the Use and Purpose of Documents to Improve Information Retrieval.
+Colonial Systems.
+A Case for Using Real Options Pricing Analysis to Evaluate Information Technology Project Investments.
+Nonlinear and Noncompensatory Models in User Information Satisfaction Measurement.
+Research Commentary. Academic Rewards for Teaching, Research, and Service: Data and Discourse.
+Electronic Brainstorming: The Illusion of Productivity.
+Information Technology and Firm Boundaries: Evidence from Panel Data.
+Straight Talk: Delivering Bad News through Electronic Communication.
+Accounting for the Contradictory Organizational Consequences of Information Technology: Theoretical Directions and Methodological Implications.
+Research Report. Can EDI Benefit Adopters?
+Profiles of Strategic Information Systems Planning.
+Morality and Computers: Attitudes and Differences in Moral Judgments.
+The Illusory Diffusion of Innovation: An Examination of Assimilation Gaps.
+Research Report. Learning from Goal-Directed Error Recovery Strategy.
+Information and Communication: Alternative Uses of the Internet in Households.
+Information Technology Assimilation in Firms: The Influence of Senior Leadership and IT Infrastructures.
+Designing Workflow Coordination: Centralized Versus Market-Based Mechanisms.
+Dimensionality of the Strategic Grid Framework: The Construct and Its Measurement.
+Evaluating the Impact of DSS, Cognitive Effort, and Incentives on Strategy Selection.
+Research Note. Electronic Brainstorming: Illusions and Patterns of Productivity.
+Research Note. The Illusion of Electronic Brainstorming Productivity: Theoretical and Empirical Issues.
+Reengineering the Dutch Flower Auctions: A Framework for Analyzing Exchange Organizations.
+Facilitator Influence in Group Support Systems: Intended and Unintended Effects.
+Semantic Structuring in Analyst Acquisition and Representation of Facts in Requirements Analysis.
+Integrated Modeling Environments in Organizations: An Empirical Study.
+The Impact of Information Technology Investments on Firm Performance and Evaluation: Evidence from Newly Industrialized Economies.
+Enabling Software Development Team Performance During Requirements Definition: A Behavioral Versus Technical Approach.
+The Multilevel and Multifaceted Character of Computer Self-Efficacy: Toward Clarification of the Construct and an Integrative Framework for Research.
+A Paradigmatic Analysis Contrasting Information Systems Development Approaches and Methodologies.
+Using Geographical Information Systems for Decision Making: Extending Cognitive Fit Theory to Map-Based Presentations.
+A Conceptual and Operational Definition of Personal Innovativeness in the Domain of Information Technology.
+Firm Characteristics and Investments in Information Technology: Scale and Scope Effects.
+Attention Shaping and Software Risk - A Categorical Analysis of Four Classical Risk Management Approaches.
+Testing Media Richness Theory in the New Media: The Effects of Cues, Feedback, and Task Equivocality.
+Automating the Discovery of AS-IS Business Process Models: Probabilistic and Algorithmic Approaches.
+The Information Industries: Introduction to the Special Issue.
+Globalization and Increasing Returns: Implications for the U.S. Computer Industry.
+Leveraging the Global Information Revolution for Economic Development: Singapore's Evolving Information Industry Strategy.
+An Information Company in Mexico: Extending the Resource-Based View of the Firm to a Developing Country Context.
+Understanding Post-Adoption Behavior in the Context of Online Services.
+International Software Piracy: Analysis of Key Issues and Impacts.
+Computer Industry Executives: An Analysis of the New Barons' Compensation.
+Clockspeed and Informational Response: Evidence from the Information Technology Industry.
+Strategic Choices in the Development of Interorganizational Information Systems.
+Why Is Programming (Sometimes) So Difficult? Programming as Scientific Discovery in Multiple Problem Spaces.
+Redesigning Case Retrieval to Reduce Information Acquisition Costs.
+Examining the Emergence of Hybrid IS Governance Solutions: Evidence From a Single Case Site.
+Measuring Software Engineering Evolution: A Rasch Calibration.
+Interorganizational Cooperation: The Role of Information Technology an Empirical Comparison of U.S. and Japanese Supplier Relations.
+Business Strategic Orientation, Information Systems Strategic Orientation, and Strategic Alignment.
+Information Acquisition Policies for Resource Allocation Among Multiple Agents.
+Executive Decisions About Adoption of Information Technology in Small Business: Theory and Empirical Tests.
+Research Report: Information Technology and Investment Incentives in Distributed Operations.
+Research Report: The Effectiveness of Multiple Dialogues in Electronic Brainstorming.
+Portfolios of Control Modes and IS Project Management.
+A Respecification and Extension of the DeLone and McLean Model of IS Success.
+An Empirical Study of Computer System Learning: Comparison of Co-Discovery and Self-Discovery Methods.
+Empirical Evidence on Swanson's Tri-Core Model of Information Systems Innovation.
+Research Report: Diffusion of Information Systems Outsourcing: A Reevaluation of Influence Sources.
+When Processes Learn: Steps Toward Crafting an Intelligent Organization.
+Ownership and Investment in Electronic Networks.
+Advancing the Theory of Adaptive Structuration: The Development of a Scale to Measure Faithfulness of Appropriation.
+Varieties of Political Process During Systems Development.
+An Economic Analysis of the Introduction of an Electronic Data Interchange System.
+The Role of IT in the Transformation of Work: A Comparison of Post-Industrial, Industrial, and Proto-Industrial Organization.
+Information Technology and Organizational Change in the British Census, 1801-1911.
+Texas Politics and the Fax Revolution.
+Information Technology in the Police Context: The "Sailor" Phone.
+Improvising Organizational Transformation Over Time: A Situated Change Perspective.
+Transforming Work Through Information Technology: A Comparative Case Study of Geographic Information Systems in County Government.
+Steps Toward an Ecology of Infrastructure: Design and Access for Large Information Spaces.
+Are Attributes Entities? A Study of Database Designers' Memory Structures.
+Alternative Securities Trading Systems: Tests and Regulatory Implications of the Adoption of Technology.
+A Computational Study of Distributed Rule Learning.
+Information Acquisition and Mental Models: An Investigation into the Relationship Between Behaviour and Learning.
+A Theory of Decision Support System Design for User Calibration.
+Overcoming Ineffective Mental Representations in Base-Rate Problems.
+Top Management Support, External Expertise and Information Systems Implementation in Small Businesses.
+Process Structuring in Electronic Brainstorming.
+The Contribution of Information Technology to Consumer Welfare.
+Pricing Computer Services Under Alternative Control Structures: Tradeoffs and Trends.
+On Data Representation and Use in a Temporal Relational DBMS.
+Inductive Model Analysis Systems: Enhancing Model Analysis in Decision Support Systems.
+The Use and Effects of Knowledge-Based System Explanations: Theoretical Foundations and a Framework for Empirical Evaluation.
+Providing Design Assistance: A Case-Based Approach.
+Research Commentary: Rethinking "Diversity" in Information Systems Research.
+Research Commentary: Diversity in Information Systems Research: Threat, Promise, and Responsibility.
+The Calculus of Reengineering.
+Facilitation, GSS, and Training as Sources of Process Restrictiveness and Guidance for Structured Group Decision Making: An Empirical Assessment.
+Effects of Communication Mode and Prediscussion Information Distribution Characteristics on Information Exchange in Groups.
+The Relationship of Information System Training Methods and Cognitive Ability to End-User Satisfaction, Comprehension, and Skill Transfer: A Longitudinal Field Study.
+Information Technologies and Business Value: An Analytic and Empirical Investigation.
+Controlling Information System Departments in the Presence of Cost Information Asymmetry.
+Designing Information Systems to Optimize the Accuracy-Timeliness Tradeoff.
+Research Report - The Importance of Specification in Causal Modeling: The Case of End-User Computing Satisfaction.
+Actualizing Organizational Memory with Information Systems.
+Application of Social Cognitive Theory to Training for Computer Skills.
+Understanding Information Technology Usage: A Test of Competing Models.
+Research Report - A Confirmatory Factor Analysis of the User Information Satisfaction Instrument.
+The Effect of Coordination and Uncertainty on Software Project Performance: Residual Performance Risk as an Intervening Variable.
+Modeling Coordination in Software Construction: An Analytical Approach.
+Modeling Team Processes: Issues and a Specific Example.
+Research Report - The Relevance of Application Domain Knowledge: The Case of Computer Program Comprehension.
+Reconciling Variance and Process Strategies for Studying Information System Development.
+Improving the Performance Stability of Inductive Expert Systems Under Input Noise.
+Using Treemaps to Visualize the Analytic Hierarchy Process.
+The Emergence of Interpretivism in IS Research.
+Free-Access Policy for Internal Networks.
+The Effect of Culture on IT Diffusion: E-Mail and FAX in Japan and the U.S.
+User Response Data: The Potential for Errors and Biases.
+Organizational Characteristics and Information Systems Planning: An Empirical Study.
+Computer-Mediated Communication for Intellectual Teamwork: An Experiment in Group Writing.
+Institutional Factors in Information Technology Innovation.
+Research Report - Principles for Examining Predictive Validity: The Case of Information Systems Spending Forecasts.
+Research Report - Modeling vs. Forecasting: The Case of Information Systems Spending.
+Model Integration Using Metagraphs.
+Role of Control in the Model Formulation Process.
+Formal Modeling of Complex Commands in Industrial Software Specifications.
+Benchmarking Decision Models for Database Management Systems.
+Claims, Arguments, and Decisions: Formalisms for Representation, Gaming, and Coordination.
+Research Report - Adaptation of a Planning System Success Model to Information Systems Planning.
+Editorial Notes.
+The Contradictory Structure of Systems Development Methodologies: Deconstructing the IS-User Relationship in Information Engineering.
+Improving End-User Proficiency: Effects of Conceptual Training and Nature of Interaction.
+What's Mine Is Ours, or Is It? A Study of Attitudes about Information Sharing.
+User Participation, Conflict, and Conflict Resolution: The Mediating Roles of Influence.
+Research Report - Modeling Interpersonal Processes During System Development: Further Thoughts and Suggestions.
+Research Report - Hypothesis Testing and Hypothesis Generating Research: An Example from the User Participation Literature.
+The Impact of Information Technology Investment Announcements on the Market Value of the Firm.
+The Information Age Confronts Education: Case Studies on Electronic Classrooms.
+Reframing Decision Problems: A Graph-Grammar Approach.
+Organizational Adoption of Microcomputer Technology: The Role of Sector.
+Inductive Expert System Design: Maximizing System Value.
+A Formal Approach for Designing Distributed Expert Problem-Solving Systems.
+A Classification of Information Systems: Analysis and Interpretation.
+Interactivity and Communication Mode Choice in Ongoing Management Groups.
+The Effects of Information Technology and the Perceived Mood of the Feedback Giver on Feedback Seeking.
+Heuristics for Reconciling Independent Knowledge Bases.
+Editorial Notes.
+Information Systems Research Thematics: Submissions to a New Journal, 1987-1992.
+MODFORM: A Knowledge-Based Tool to Support the Modeling Process.
+A Comparative Analysis of the Empirical Validity of Two Rule-Based Belief Languages.
+Model Integration and Modeling Languages: A Process Perspective.
+The Effects and Limitations of Automated Text Condensing on Reading Comprehension Performance.
+Building an Information System Design Theory for Vigilant EIS.
+Information Systems Success: The Quest for the Dependent Variable.
+Unravelling Is-a Structures.
+A Conceptual Model of Adaptive Knowledge-Based Systems.
+A Comparative Study of How Experts and Novices Use a Decision Aid to Solve Problems in Complex Knowledge Domains.
+After-Hours Telecommuting and Work-Family Conflict: A Comparative Analysis.
+Electronic Meeting Systems: Evidence from a Low Structure Environment.
+The Effects of Variations in Capabilities of GDSS Designs on Management of Cognitive Conflict in Groups.
+A Comparison of Linear Keyword and Restricted Natural Language Data Base Interfaces for Novice Users.
+Determinants of Turnover Intentions: Comparing IC and IS Personnel.
+The Relationship Between Investment in Information Technology and Firm Performance: A Study of the Valve Manufacturing Sector.
+Diffusion of Information Technology Outsourcing: Influence Sources and the Kodak Effect.
+Integrating Mathematical and Symbolic Models Through AESOP: An Expert for Stock Options Pricing.
+Performance Evaluation Metrics for Information Systems Development: A Principal-Agent Model.
+Studying Information Technology in Organizations: Research Approaches and Assumptions.
+Symbolism and Information Systems Development: Myth, Metaphor and Magic.
+Cognitive Fit: An Empirical Study of Information Acquisition.
+An Experimental Investigation of the Impact of Computer Based Decision Aids on Decision Making Strategies.
+The Impact of Computerized Performance Monitoring on Service Work: Testing a Causal Model.
+Information Technology and the Structuring of Organizations.
+Predicting User Intentions: Comparing the Technology Acceptance Model with the Theory of Planned Behavior.
+Development of an Instrument to Measure the Perceptions of Adopting an Information Technology Innovation.
+MCDM Approach for Generating and Evaluating Alternatives in Requirement Analysis.
+Software-Effort Estimation: An Exploratory Study of Expert Performance.
+Information Issues in Model Specification.
+Form and Substance in Physical Database Design: An Empirical Study.
+Can Software Influence Creativity?
+An Integrative Model of Information Systems Spending Growth.
+Decision Support Systems: Directed and Nondirected Change.
+Alternative Mechanisms of Allocating Computer Resources Under Queueing Delays.
+User Involvement as an Interaction Process: A Case Study.
+The Adoption of Spreadsheet Software: Testing Innovation Diffusion Theory in the Context of End-User Computing.
+Automated Construction of Knowledge-Bases from Examples.
+A Role Theory Perspective on End-User Development.
+Optimal Information Structures for the Seller of a Search Good.
+The Impact of the Environment on the Management of Information Systems.
+Dimensions of I/S Planning and Design Aids: A Functional Model of CASE Technology.
+Effective IS Security: An Empirical Study.
+A Refresh Scheme for Remote Snapshots.
+Assessing the Economic Benefits of Information Systems Auditing.
+An Empirical Investigation of Factors Influencing the Success of Customer-Oriented Strategic Systems.
+Information Technology and Corporate Strategy: A View from the Top.
+Electronic Integration and Strategic Advantage: A Quasi-Experimental Study in the Insurance Industry.
+A Study of Collaborative Group Work With and Without Computer-Based Support.
+An Attribute Space for Organizational Communication Channels.
